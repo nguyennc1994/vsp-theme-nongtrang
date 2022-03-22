@@ -1,0 +1,12 @@
+/* WRITE HERE YOUR CUSTOM CSS IN ORDER TO MAKE ITEM UPDATES EASY */
+
+.custom-footer {
+  position: none;
+  bottom: 0px;
+  width: 100%;
+  z-index: 1000;
+}
+#logo img {
+  width: auto;
+  height: 80px;
+}
